@@ -5,6 +5,8 @@
 * Infersent (https://github.com/facebookresearch/InferSent): Infersent is used for training a sentence encoder on SNLI corpus.
 * PyTorch (for training the sentence encoder and inferring sentence embeddings)
 * Keras
+* Numpy
+* Pandas
 
 
 ## Description of important files in each directory
