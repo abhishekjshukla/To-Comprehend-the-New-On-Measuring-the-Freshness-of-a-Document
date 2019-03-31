@@ -1,5 +1,4 @@
-# To-Comprehend-the-New-On-Measuring-the-Freshness-of-a-Document
-Code for Paper titled "To Comprehend the New: On Measuring the Freshness of a Document"
+#  To Comprehend the New: On Measuring the Freshness of a Document
 
 ## Requirements
 * Infersent (https://github.com/facebookresearch/InferSent): Infersent is used for training a sentence encoder on SNLI corpus.
