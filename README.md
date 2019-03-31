@@ -12,5 +12,7 @@
 ## Description of important files in each directory
 * `input_generation.py` Produces pre-trained sentence embeddings for dlnd data also produces document matrix based on sentence embeddings for input to CNN.
 * `model.py` This is the main CNN program.It creates the output file which has the predictions for each target and source document pair.
+* `NER_Result.py` This file is for Named-Entities similarity scoring for Phase-I (Search and Retrieval) in Premise Selection
 
 * `TAPNew.zip` This is training Data.
+
